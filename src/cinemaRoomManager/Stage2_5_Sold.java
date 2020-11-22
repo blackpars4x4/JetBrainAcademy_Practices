@@ -33,4 +33,6 @@ public class Stage2_5_Sold {
         System.out.println("Total income: \n" + "$" + totalIncome);
 
     }
+
+
 }
